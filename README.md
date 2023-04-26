@@ -1,7 +1,7 @@
 
 # Music Store Data Analysis
 
-This project is all about analysis of a online music store data.In which my main agenda was to collect the data,clean the data.On the basis of data i raise some perticular queston and write queries,which was sales,highest customer to purchase,best artist etc.
+This project is all about analysis of a online music store data.In which my main agenda was to collect the data,clean the data.On the basis of data,I Create some perticular queston and write queries,which was sales,highest customer to purchase,best artist etc.
 
 
 
